@@ -1,3 +1,6 @@
-///This is the master file for all things in this progjct, Descride the file orgnizeion like ( sprites/sprites-types/ ) The bratch is diffent edits and versons to be looked at before becomeing master
+///This is the master file for all things in this project, describe the file orgnizeion like ( sprites/sprites-types/ ) 
 
-This game is a start up by 3 poeple on gamemaker. The team is tsuchi, bean, and vape.
+ABOUT GAME
+This game is a start game by three people it is made useing gamemaker. 
+
+Thanks go to bean, tsuchi, and vape.
